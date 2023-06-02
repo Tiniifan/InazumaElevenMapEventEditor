@@ -1,0 +1,16 @@
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\bin\Debug\InazumaElevenGoMapEventEditor.exe.config
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\bin\Debug\InazumaElevenGoMapEventEditor.exe
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\bin\Debug\InazumaElevenGoMapEventEditor.pdb
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\bin\Debug\EndianBitConverter.dll
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\bin\Debug\EndianBitConverter.xml
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\obj\Debug\InazumaElevenGoMapEventEditor.csproj.AssemblyReference.cache
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\obj\Debug\InazumaElevenGoMapEventEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\obj\Debug\InazumaElevenGoMapEventEditor.MapEditor.resources
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\obj\Debug\InazumaElevenGoMapEventEditor.Properties.Resources.resources
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\obj\Debug\InazumaElevenGoMapEventEditor.csproj.GenerateResource.cache
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\obj\Debug\InazumaElevenGoMapEventEditor.csproj.CoreCompileInputs.cache
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\obj\Debug\InazumaElevenGoMapEventEditor.csproj.CopyComplete
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\obj\Debug\InazumaElevenGoMapEventEditor.exe
+C:\Users\Tinifan\source\repos\InazumaElevenGoMapEventEditor\InazumaElevenGoMapEventEditor\obj\Debug\InazumaElevenGoMapEventEditor.pdb
