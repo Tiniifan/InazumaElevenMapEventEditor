@@ -4,7 +4,7 @@ using System.Linq;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.Runtime.InteropServices;
-using InazumaElevenGoMapEventEditor.Tool;
+using InazumaElevenGoMapEventEditor.Tools;
 using InazumaElevenGoMapEventEditor.Level5.Compression;
 using InazumaElevenGoMapEventEditor.Level5.Compression.ETC1;
 using InazumaElevenGoMapEventEditor.Level5.Image.Color_Formats;

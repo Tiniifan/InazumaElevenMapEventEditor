@@ -1,17 +1,14 @@
-﻿using System;
-using System.IO;
+﻿using System.IO;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using InazumaElevenGoMapEventEditor.Tool;
+using InazumaElevenGoMapEventEditor.Tools;
 using System.Drawing;
 
 namespace InazumaElevenGoMapEventEditor.Level5.Mapenv
 {
     public static class Mapenv
     {
-        public static Point CalculatePosition(int[] boundaries, int pointX, int pointY, int mapWidth, int mapHeight)
+        public static Point CalculatePosition(int[] boundaries, float pointX, float pointY, int mapWidth, int mapHeight)
         {
             int minX = boundaries[0];
             int minY = boundaries[1];

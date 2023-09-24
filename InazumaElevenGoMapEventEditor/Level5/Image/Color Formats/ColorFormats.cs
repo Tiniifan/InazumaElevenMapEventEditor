@@ -28,7 +28,6 @@ namespace InazumaElevenGoMapEventEditor.Level5.Image.Color_Formats
         {
             if (data.Length < 2)
             {
-                System.Console.WriteLine(System.BitConverter.ToString(data).Replace("-", ""));
                 return Color.FromArgb(0);
             }
 
@@ -64,9 +63,9 @@ namespace InazumaElevenGoMapEventEditor.Level5.Image.Color_Formats
         {
             if (data.Length < 4)
             {
-                System.Console.WriteLine(System.BitConverter.ToString(data).Replace("-", ""));
                 return Color.FromArgb(0);
             }
+
             int argb = (data[0] << 24) | (data[3] << 16) | (data[2] << 8) | data[1];
             return Color.FromArgb(argb);
         }
@@ -88,9 +87,9 @@ namespace InazumaElevenGoMapEventEditor.Level5.Image.Color_Formats
         {
             if (data.Length < 3)
             {
-                System.Console.WriteLine(System.BitConverter.ToString(data).Replace("-", ""));
                 return Color.FromArgb(0);
             }
+
             int argb = (255 << 24) | (data[2] << 16) | (data[1] << 8) | data[0];
             return Color.FromArgb(argb);
         }
